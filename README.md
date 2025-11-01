@@ -82,8 +82,6 @@ Controlled data acquisition under consistent lighting and focus.
 Robust image processing for accurate laser line detection.
 3D triangulation to reconstruct surface topography.
 The resulting 3D data enables:
-Quantitative analysis of erosion severity
-
-Comparison across resolutions and laser types
-
-Use in predictive maintenance and blade surface modeling
+- Quantitative analysis of erosion severity
+- Comparison across resolutions and laser types
+- Use in predictive maintenance and blade surface modelling
